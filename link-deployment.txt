@@ -1,0 +1,3 @@
+link dataset : https://archive.ics.uci.edu/ml/datasets/seismic-bumps
+
+link deployment : https://hazard-prediction.herokuapp.com/
